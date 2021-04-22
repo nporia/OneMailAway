@@ -605,7 +605,7 @@
            height: 80%;
            background-size:cover;
            transform: translateX( 700px );
-           background-image: url("https://productgym.io/wp-content/uploads/2020/04/55.png");
+           background-image: url("pic.001.jpeg");
            background-repeat:no-repeat;
            animation: opaqTransition 28s cubic-bezier(0, 0, 0, 0.97) infinite;
            }
@@ -613,21 +613,21 @@
     
           .slick .card_part.card_part-two {
            z-index: 6;
-           background-image: url("https://images.mktw.net/im-314001?width=620&size=1.7777777777777777");
+           background-image: url("pic.jpeg");
            animation-delay: 7s;
            background-repeat:no-repeat;
           }
     
           .slick .card_part.card_part-three {
            z-index: 5;
-           background-image: url("https://productgym.io/wp-content/uploads/2020/04/55.png");
+           background-image: url("pic.001.jpeg");
            animation-delay: 14s;
            background-repeat:no-repeat;
            }
     
           .slick .card_part.card_part-four {
            z-index: 4;
-           background-image: url("https://images.mktw.net/im-314001?width=620&size=1.7777777777777777");
+           background-image: url("pic.jpeg");
            animation-delay: 21s;
            background-repeat:no-repeat;
            }
@@ -747,6 +747,7 @@
     /*FOOTER*/
     .footer{
     width:100%;
+    margin-bottom: 0;
     background-image:url("https://i.ibb.co/d5Qtw8D/Footer.png");
     background-size:100% 100%;
     padding:20px 0px;
